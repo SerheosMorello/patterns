@@ -1,6 +1,6 @@
 package delegate;
 
-public interface Beverages {
+public interface IBeverages {
 
     public String getDescription();
 

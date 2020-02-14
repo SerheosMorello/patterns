@@ -1,6 +1,6 @@
 package delegate;
 
-public class Espresso implements Beverages {
+public class Espresso implements IBeverages {
     @Override
     public String getDescription() {
         return "30 ml of coffee. ";

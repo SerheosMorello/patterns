@@ -1,7 +1,7 @@
 package delegate;
 
 public class Milk extends TopingDelegate {
-    Milk(Beverages beverages) {
+    public Milk(IBeverages beverages) {
         super(beverages);
     }
 

@@ -1,9 +1,9 @@
 package delegate;
 
-public class TopingDelegate implements Beverages {
+public class TopingDelegate implements IBeverages {
 
-    Beverages beverages;
-    TopingDelegate(Beverages beverages){
+    IBeverages beverages;
+    TopingDelegate(IBeverages beverages){
         this.beverages = beverages;
     }
 

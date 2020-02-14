@@ -1,7 +1,7 @@
 package delegate;
 
 public class Sugar extends TopingDelegate {
-    Sugar(Beverages beverages) {
+    public Sugar(IBeverages beverages) {
         super(beverages);
     }
 
