@@ -1,4 +1,4 @@
-package delegate;
+package delegate.main;
 
 public class Milk extends TopingDelegate {
     public Milk(IBeverages beverages) {

@@ -1,5 +1,8 @@
-package test;
-import delegate.*;
+package delegate.test;
+import delegate.main.Espresso;
+import delegate.main.Milk;
+import delegate.main.IBeverages;
+import delegate.main.Sugar;
 import org.junit.*;
 
 public class BeveragesDescriptionTest {

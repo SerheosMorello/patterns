@@ -1,4 +1,4 @@
-package delegate;
+package delegate.main;
 
 public class Sugar extends TopingDelegate {
     public Sugar(IBeverages beverages) {

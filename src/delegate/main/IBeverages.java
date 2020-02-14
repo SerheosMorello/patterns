@@ -1,4 +1,4 @@
-package delegate;
+package delegate.main;
 
 public interface IBeverages {
 
